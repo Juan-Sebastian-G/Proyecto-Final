@@ -230,13 +230,6 @@ python Sistema.py
 * Panel administrativo avanzado.
 * Control de vencimiento de sangre.
 
----
-
-# 👨‍💻 Autor
-
-Proyecto desarrollado por:
-
-**Juan Sebastian Garzon Garzon**
 
 ---
 
