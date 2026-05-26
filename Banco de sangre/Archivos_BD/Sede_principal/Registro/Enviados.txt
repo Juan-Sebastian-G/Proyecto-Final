@@ -1,0 +1,13 @@
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-19 12:22 | Sucursal:Sucursal_A | Cantidad:5 | Tipo:Automático
+2026-05-25 22:07 | Sucursal:Sucursal_A | Cantidad:20 | Tipo:Automático

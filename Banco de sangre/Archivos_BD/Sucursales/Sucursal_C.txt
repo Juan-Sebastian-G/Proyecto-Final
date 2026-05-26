@@ -1,0 +1,5 @@
+Stock:7
+----------------------
+2026-05-21 17:24 | Usuario:Jose_Alva | Acción:Retiro
+2026-05-21 17:24 | Usuario:Jose_Alva | Acción:Retiro
+2026-05-21 17:24 | Usuario:Jose_Alva | Acción:Retiro

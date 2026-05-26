@@ -1,0 +1,32 @@
+ID:1
+Fecha:2026-05-19 12:24
+Sucursal:Sucursal_A
+Usuario:Pepe.grillo
+Cantidad:20
+Estado:Aprobado
+Observacion:Hola ¿Que tal?
+----------------------
+ID:2
+Fecha:2026-05-21 17:25
+Sucursal:Sucursal_B
+Usuario:Jose_Alva
+Cantidad:10
+Estado:Rechazado
+Observacion:
+----------------------
+ID:3
+Fecha:2026-05-25 21:51
+Sucursal:Sucursal_A
+Usuario:asdfghjkl
+Cantidad:87
+Estado:Aprobado
+Observacion:
+----------------------
+ID:4
+Fecha:2026-05-25 22:39
+Sucursal:Sucursal_C
+Usuario:Jose_Ramirez
+Cantidad:458
+Estado:Rechazado
+Observacion:Rechasado por exeso, no se reporta ni nesesidad del envio ni capacidad en bodega.
+----------------------

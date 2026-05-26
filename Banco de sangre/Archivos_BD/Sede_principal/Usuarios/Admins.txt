@@ -1,0 +1,28 @@
+Nombre:Juan Sebastian
+Apellido:Garzon Garzon
+Usuario:TheBossBoss
+Documento:1020304050
+Rol:Principal_Admin
+Estado:Activo
+----------------------
+Nombre:sebastian
+Apellido:Belalcazar
+Usuario:s.belal18
+Documento:1011323826
+Rol:Admin
+Estado:Activo
+----------------------
+Nombre:Piter pan
+Apellido:Pan pan
+Usuario:El_casador77
+Documento:0987654345
+Rol:Admin
+Estado:Activo
+----------------------
+Nombre:qwertyuiop
+Apellido:poiuytrewq
+Usuario:qwertyuiop
+Documento:1234567890
+Rol:Admin
+Estado:Activo
+----------------------
